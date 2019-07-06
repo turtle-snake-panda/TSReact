@@ -1,0 +1,69 @@
+
+/* theme type setting style */
+.fixed-plugin ul.dropdown-menu li.button-container{
+    display:none;
+}
+
+/* login-form */
+/* a.RegularButton-primary-142{
+    background-color: rgb(160, 231, 163);
+    border-radius:50%;
+    width:80px;
+    margin:0 1%;
+}
+button.RegularButton-primary-142{
+    background-color: rgb(243, 224, 174);
+    border-radius:50%;
+    font-size:12px;
+    margin:0 1%;
+} */
+
+a.btn-sm{
+    width:85px;
+    height:25px;    
+    border-radius: 50%;
+}
+a.btn-md{
+    width:100px;
+    height:35px;
+    border-radius: 50%;
+}
+.buy_credit{
+    text-align: center;
+}
+i.star{
+    color: rgb(219, 109, 5);
+    font-size: 35px;
+    /* border: 1px solid;
+    border-color: red; */
+}
+/* button.close{
+    border-radius: 50%;
+    background-color: rgb(243, 119, 81);
+    color: black;
+} */
+button.close span{
+    /* width: 50px;
+    height:50px; */
+    font-size: 30px;
+    border-radius: 40%;
+    background-color: rgb(243, 119, 81);
+    color: black;
+}
+div.table-responsive{
+    overflow-x:auto;
+}
+/* div.modal-dialog{
+    align-content: center;
+}
+div.modal-content{
+    width:800px;
+    height:500px;
+} */
+i.inputIconsColor{
+    color: "#495057";
+    float: "right";
+    margin-top: "-25px"
+}
+
+

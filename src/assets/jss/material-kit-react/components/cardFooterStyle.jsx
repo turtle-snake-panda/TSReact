@@ -1,0 +1,14 @@
+const cardFooterStyle = {
+  cardFooter: {
+    display: "flex",
+    alignItems: "center",
+    backgroundColor: "transparent",
+    padding: "0.9375rem 1.875rem"
+  },
+  // button: {
+  //   backgroundColor: "green",
+  //   borderRadius: "10%"
+  // }
+};
+
+export default cardFooterStyle;
