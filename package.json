@@ -39,7 +39,7 @@
     "react-slick": "^0.24.0",
     "react-swipeable-views": "0.13.1",
     "serve": "^11.0.2",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "validate.js": "^0.12.0"
   },
   "scripts": {
